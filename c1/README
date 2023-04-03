@@ -1,0 +1,18 @@
+Video:
+https://www.youtube.com/watch?v=gvgBUY8iNO4
+
+## Tips:
+Create a new project:
+    cargo new
+
+Build the project/compile:
+    cargo build
+
+Build and run:
+    cargo run
+
+Check the code:
+    cargo check
+
+Format automatically the code:
+    rustfmt ${filename}
