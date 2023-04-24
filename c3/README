@@ -1,0 +1,36 @@
+Video:
+https://www.youtube.com/watch?v=t047Hseyj_k
+
+## Tips:
+
+Data Types
+
+numbers:
+    singed:
+    - i8
+    - i16
+    - i32 (default)
+    - i64
+    - i128
+
+    unsinged:
+    - u8
+    - u16
+    - u32
+    - u64
+    - u128
+
+floating:
+    - f32
+    - f64
+
+boolean:
+    bool
+
+char:
+    - char
+
+arrays: 
+- not possible to add more elements, need to recreate one. 
+- To define the type and size of: [{TYPE}; {SIZE}] -> [i32, 5]
+- neeed to manual iniatlize the object array, using -> = []
