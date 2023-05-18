@@ -1,0 +1,11 @@
+Video:
+https://www.youtube.com/watch?v=PQBX-ev5q2k
+
+## Tips:
+
+Console input
+
+use std::io;
+
+io::stdin().read_line(${reference var})
+        .expect("Fail to read line");
