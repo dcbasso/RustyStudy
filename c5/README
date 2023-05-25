@@ -4,3 +4,10 @@ https://www.youtube.com/watch?v=Uwa3P9dBHdA
 ## Tips:
 
 Arithmetic and Type Casting
+
++
+-
+/
+%
+{variable} as {type} --> variable as u8
+ 
